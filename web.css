@@ -1,0 +1,9 @@
+#hero {
+    background-color: #343a40;
+    color: white;
+    height: 100vh;
+}
+
+#skills .progress-bar {
+    background-color: #007bff;
+}
